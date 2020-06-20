@@ -51,74 +51,74 @@ var eventHour = $(".hour")
 
 function loadPage() {
     if (currentHour > 09) {
-        textArea1Color.css("background-color", "gray");
+        textArea1Color.css("background-color", "#ff6961");
     } else if (currentHour === 09) {
         textArea1Color.css("background-color", "white");
     } else if (currentHour < 09) {
-        textArea1Color.css("background-color", "blue");
+        textArea1Color.css("background-color", "#77dd77");
     }
     if (currentHour > 10) {
-        textArea2Color.css("background-color", "gray");
+        textArea2Color.css("background-color", "#ff6961");
     } else if (currentHour === 10) {
         textArea2Color.css("background-color", "white");
     } else if (currentHour < 10) {
-        textArea2Color.css("background-color", "blue");
+        textArea2Color.css("background-color", "#77dd77");
     };
     if (currentHour > 11) {
-        textArea3Color.css("background-color", "gray");
+        textArea3Color.css("background-color", "#ff6961");
     } else if (currentHour === 11) {
         textArea3Color.css("background-color", "white");
     } else if (currentHour < 11) {
-        textArea3Color.css("background-color", "blue");
+        textArea3Color.css("background-color", "#77dd77");
     };
     if (currentHour > 12) {
-        textArea4Color.css("background-color", "gray");
+        textArea4Color.css("background-color", "#ff6961");
     } else if (currentHour === 12) {
         textArea4Color.css("background-color", "white");
     } else if (currentHour < 12) {
-        textArea4Color.css("background-color", "blue");
+        textArea4Color.css("background-color", "#77dd77");
     };
     if (currentHour > 13) {
-        textArea5Color.css("background-color", "gray");
+        textArea5Color.css("background-color", "#ff6961");
     } else if (currentHour === 13) {
         textArea5Color.css("background-color", "white");
     } else if (currentHour < 13) {
-        textArea5Color.css("background-color", "blue");
+        textArea5Color.css("background-color", "#77dd77");
     };
     if (currentHour > 14) {
-        textArea6Color.css("background-color", "gray");
+        textArea6Color.css("background-color", "#ff6961");
     } else if (currentHour === 14) {
         textArea6Color.css("background-color", "white");
     } else if (currentHour < 14) {
-        textArea6Color.css("background-color", "blue");
+        textArea6Color.css("background-color", "#77dd77");
     };
     if (currentHour > 15) {
-        textArea7Color.css("background-color", "gray");
+        textArea7Color.css("background-color", "#ff6961");
     } else if (currentHour === 15) {
         textArea7Color.css("background-color", "white");
     } else if (currentHour < 15) {
-        textArea7Color.css("background-color", "blue");
+        textArea7Color.css("background-color", "#77dd77");
     };
     if (currentHour > 16) {
-        textArea8Color.css("background-color", "gray");
+        textArea8Color.css("background-color", "#ff6961");
     } else if (currentHour === 16) {
         textArea8Color.css("background-color", "white");
     } else if (currentHour < 16) {
-        textArea8Color.css("background-color", "blue");
+        textArea8Color.css("background-color", "#77dd77");
     };
     if (currentHour > 17) {
-        textArea9Color.css("background-color", "gray");
+        textArea9Color.css("background-color", "#ff6961");
     } else if (currentHour === 17) {
         textArea9Color.css("background-color", "white");
     } else if (currentHour < 17) {
-        textArea9Color.css("background-color", "blue");
+        textArea9Color.css("background-color", "#77dd77");
     }
     if (currentHour > 18) {
-        textArea10Color.css("background-color", "gray");
+        textArea10Color.css("background-color", "#ff6961");
     } else if (currentHour === 18) {
         textArea10Color.css("background-color", "white");
     } else if (currentHour < 18) {
-        textArea10Color.css("background-color", "blue");
+        textArea10Color.css("background-color", "#77dd77");
     }
 };
 loadPage();
