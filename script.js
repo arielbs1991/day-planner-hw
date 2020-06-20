@@ -183,16 +183,7 @@ $("#6pmBtn").on("click", function () {
 });
 
 // var inputText1 = JSON.parse(localStorage.getItem("data1"));
-var inputText1 = data1;
-var inputText2 = data2;
-var inputText3 = data3;
-var inputText4 = data4;
-var inputText5 = data5;
-var inputText6 = data6;
-var inputText7 = data7;
-var inputText8 = data8;
-var inputText9 = data9;
-var inputText10 = data10;
+var data = [data1, data2, data3, data4, data5, data6, data7, data8, data9, data10];
 
 
 
